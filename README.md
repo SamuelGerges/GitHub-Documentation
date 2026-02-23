@@ -201,6 +201,31 @@
     git submodule add https://repo.git
 
 
+## REFLOG
+Reflog shows ALL actions in repository. Even deleted commits.
+
+Commands:
+        git reflog
+
+
+
+## FORK
+Fork = Copy someone else's repository into your account.
+    You don’t have write access. So you fork. Then create a Pull Request.
+
+## GIT FLOW
+Git Flow is a branching strategy.
+
+    Main branches:
+        main (production)
+        develop
+        Support branches:
+
+        feature/*
+        release/*
+        hotfix/*
+
+        Professional team structure.
 
 
 ## 9. Professional Workflow
